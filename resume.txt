@@ -1,0 +1,42 @@
+<html>
+<head>
+<title>
+third web
+</title>
+</head>
+<body>
+<h1 align=:"centre"> my resume <h1>
+<h2> Name : Shashank Shukla</h2>
+<h3> Email : shuklasatyam6472@gmail.com </h3>
+<h3> Contact : 6262641306</h3>
+
+
+
+<h2> Objective: </h2>
+<h5> Lorem ipsum dolor, Sit amet Consectetur adipisicing elit. prasentive quia nam delectus, esse verities, suscipit explicabo aliquam id aliquid libero sunt
+animi nesciunt laborum eveniet consequatur dolorem omnis fuga. Provident.
+
+
+<h2 align="centre"> area of interest</h2>
+<ul>
+<li>interested area's</li>
+<h2 align="center"> Hobbies</h2>
+<li>multiply hobbies here </li>
+<h2 align="center">strength </h2>
+<li> multiple strength here </li>
+<h2 align="centre">weakness </h2>
+<li> multiple weakness here</li>
+
+</ul>
+
+
+<h2> Personal Details</h2>
+<ul>
+<li>Date of birth: 10/10/2000</li>
+<li>Marital Status: Unmarid </li>
+<li>Address : Full address </li>
+</ul>
+</body>
+</html>
+  
+  
